@@ -78,7 +78,6 @@ Implement a game reset functionality, so that the player can make a new guess! H
 3. Restore the initial conditions of the message, number, score and guess input field
 4.Also restore the original background-color (#222) and number width (15em)
 
-GOOD lUCK
 */
 
 document.querySelector('.again').addEventListener('click', function () {
